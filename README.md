@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi, I’m Kage 👋  
+### Full-Stack Developer in Training | Builder of Useful Things | Curious Mind
 
-<!--
-**Kage-Labs/Kage-Labs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a developer who enjoys breaking problems apart and stitching them back together with clean, readable code. I care about clarity, structure, and building things that actually work—not just things that look fancy.
 
-Here are some ideas to get you started:
+Right now, I’m focused on strengthening my fundamentals and steadily expanding into full-stack development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Tech Stack & Tools
+**Languages**  
+HTML5, CSS3, JavaScript  
+*(learning backend languages step by step)*
+
+**Tools**  
+Git, GitHub, VS Code
+
+**Currently Learning**  
+Modern CSS, JavaScript fundamentals, backend development concepts
+
+---
+
+### 📌 What I’m Working On
+- Small projects that reinforce core concepts  
+- Writing cleaner, more understandable code  
+- Building confidence through consistency
+
+---
+
+### 📈 GitHub Activity
+I’m actively learning, practicing, and pushing code here as I grow. Progress over perfection.
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kage-Labs&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kage-Labs&layout=compact&theme=radical)
+
+
+---
+
+### 📫 Connect With Me
+- **Email:** mst.unknown100@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/ebuka-ejikeme
+- **Portfolio:** https://Kage-Labs.github.io
+
+---
+
+“The best way to predict the future is to invent it.”

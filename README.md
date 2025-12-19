@@ -9,14 +9,14 @@ Right now, I’m focused on strengthening my fundamentals and steadily expanding
 
 ### 🛠 Tech Stack & Tools
 **Languages**  
-HTML5, CSS3, JavaScript  
+Java 
 *(learning backend languages step by step)*
 
 **Tools**  
-Git, GitHub, VS Code
+Git, GitHub, VS Code, intelliJ
 
 **Currently Learning**  
-Modern CSS, JavaScript fundamentals, backend development concepts
+Modern java, backend development concepts
 
 ---
 

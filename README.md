@@ -38,7 +38,7 @@ I’m actively learning, practicing, and pushing code here as I grow. Progress o
 
 ###  Connect With Me
 - **Email:** mst.unknown100@gmail.com
-- **LinkedIn:** https://www.linkedin.com/in/ebuka-ejikeme
+- **LinkedIn:** https://www.linkedin.com/in/ebuka-ejikeme-60943b393/
 - **Portfolio:** https://Kage-Labs.github.io
 
 ---

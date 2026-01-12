@@ -29,9 +29,9 @@ Modern java, backend development concepts
 
 ###  GitHub Activity
 I’m actively learning, practicing, and pushing code here as I grow. Progress over perfection.
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kage-Labs &show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kage-Labs&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kage-Labs &layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kage-Labs&layout=compact&theme=radical)
 
 
 ---

@@ -31,7 +31,7 @@ Modern java, backend development concepts
 I’m actively learning, practicing, and pushing code here as I grow. Progress over perfection.
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kage-Labs&show_icons=true)](https://github.com/Kage-Labs)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kage-Labs&layout=compact&theme=radical)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kage-Labs&layout=compact)](https://github.com/Kage-Labs)
 
 
 ---
